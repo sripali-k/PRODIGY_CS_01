@@ -1,0 +1,17 @@
+# Ignore .idea folder
+.idea/
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore IntelliJ project files
+*.iml
+
+# Ignore environment variables and virtual environments
+.env
+.venv/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
