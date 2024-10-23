@@ -39,20 +39,3 @@ This is a Python project that implements the **Caesar Cipher algorithm** for enc
 This project is open source and available under the MIT License.
    
 
-### Step 3: Save the File
-After adding the content, save the file using **Ctrl + S** or **File > Save**.
-
-### Step 4: Commit and Push the Changes to Git
-Once you’ve added the content to the `README.md` file, you can commit and push the changes to your Git repository.
-
-1. **Stage the file**:
-   ```bash
-   git add README.md
-
-2. Commit the changes:
-   ```bash
-   git commit -m "Update README with project details"
-   
-3. Push the changes:
-   ```bash
-   git push origin master
