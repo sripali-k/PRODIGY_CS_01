@@ -23,15 +23,13 @@ This is a Python project that implements the **Caesar Cipher algorithm** for enc
 
 ### Example
 ### Encryption:
-   
-   Message: Hello World
-   Shift: 3
-   Encrypted Message: Khoor Zruog
+  Message: Hello World
+  Shift: 3
+  Encrypted Message: Khoor Zruog
 ### Decryption:
-    
-   Message: Khoor Zruog
-   Shift: 3
-   Decrypted Message: Hello World
+  Message: Khoor Zruog
+  Shift: 3
+  Decrypted Message: Hello World
 ## Requirements
    Python 3.x
 
